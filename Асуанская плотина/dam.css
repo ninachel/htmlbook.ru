@@ -1,0 +1,10 @@
+h1 {
+	color: green;
+	font-weight: normal;
+}
+
+p {
+	font-family: sans-serif;
+    line-height: 20px;
+    font-size: 15px;
+}
