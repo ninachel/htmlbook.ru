@@ -1,0 +1,20 @@
+* {
+	margin: 0;
+}
+
+.pepper {
+	background-color: #ED1C24;
+	height: 100px;
+	width: 100%;
+	font-size: 60px;
+	font-family: Impact;
+	color: white;
+	white-space: nowrap;
+	padding-left: 20px;
+	position: relative;
+}
+
+.pepper span {
+	position: absolute;
+	bottom: -13px;
+}
