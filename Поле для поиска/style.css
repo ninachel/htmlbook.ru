@@ -1,0 +1,7 @@
+.search{
+	width: 200px;
+}
+
+.search:focus{
+	color: red;
+}
